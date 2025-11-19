@@ -1,0 +1,7 @@
+numpy
+pandas
+pyyaml
+ipykernel
+scikit-learn
+torch
+torchvision
